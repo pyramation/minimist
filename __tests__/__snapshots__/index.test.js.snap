@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first test case: 1 1`] = `
+Object {
+  "_": Array [
+    "cmd",
+  ],
+  "a": true,
+  "b": true,
+  "bool": true,
+  "dude": 1,
+}
+`;
+
+exports[`first test case: 2 1`] = `
+Object {
+  "_": Array [
+    "cmd",
+    "another",
+  ],
+  "a": true,
+  "b": true,
+  "bool": true,
+  "dude": 1,
+}
+`;
+
+exports[`first test case: 3 1`] = `
+Object {
+  "_": Array [
+    "cmd",
+    "one",
+    "more",
+  ],
+  "a": true,
+  "b": true,
+  "bool": true,
+  "dude": 1,
+}
+`;
+
+exports[`minmist mod case: 1 1`] = `
+Object {
+  "_": Array [
+    "cmd",
+  ],
+  "a": true,
+  "b": true,
+  "bool": true,
+  "dude": 1,
+}
+`;
+
+exports[`minmist mod case: 2 1`] = `
+Object {
+  "_": Array [
+    "cmd",
+    "another",
+  ],
+  "a": true,
+  "b": true,
+  "bool": true,
+  "dude": 1,
+}
+`;
+
+exports[`minmist mod case: 3 1`] = `
+Object {
+  "_": Array [
+    "cmd",
+    "one",
+    "more",
+  ],
+  "a": true,
+  "b": true,
+  "bool": true,
+  "dude": 1,
+}
+`;
